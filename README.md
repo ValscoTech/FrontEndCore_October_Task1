@@ -1,0 +1,2 @@
+# FrontEndCore_October_Task1
+NextJs Implementation
